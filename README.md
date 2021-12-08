@@ -1,3 +1,5 @@
+# NOTE
+Forked this because adding config options would make it angry, and there was no way of configuring an ignore.
 
 <!-- markdownlint-disable -->
 # terraform-aws-msk-apache-kafka-cluster
